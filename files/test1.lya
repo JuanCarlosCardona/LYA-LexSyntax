@@ -1,0 +1,6 @@
+if (x == "huevos") {
+   x += 10;
+}
+else {
+    x -= "huevos";
+}
